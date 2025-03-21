@@ -8,6 +8,6 @@ RUN pip install --trusted-host pypi.python.org -r requirements.txt
 
 EXPOSE 5000
 
-ENV NAME Salah
+ENV NAME AnshPatel
 
 CMD ["python", "app.py"]
